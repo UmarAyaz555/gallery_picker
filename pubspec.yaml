@@ -13,7 +13,8 @@ dependencies:
   cupertino_icons: ^1.0.6
   photo_gallery:
     git:
-      url: https://github.com/Ashhad08/photo_gallery.git
+      rl: https://github.com/DeuMiAn/photo_gallery.git
+      ref: ios18_Fix
   permission_handler: ^11.3.0
   transparent_image: ^2.0.1
   video_player: ^2.8.2
